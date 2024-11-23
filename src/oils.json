@@ -1,0 +1,392 @@
+[
+    {
+      "label": "Huile de noyau d'abricot",
+      "name": "Apricot kernel oil",
+      "sap": 0.135,
+      "max": 0.2,
+      "hardness": "Soft",
+      "lather": "Medium",
+      "conservation": "1 an"
+    },
+    {
+      "label": "Huile d'argan",
+      "name": "Argan oil",
+      "sap": 0.135,
+      "max": 0.1,
+      "hardness": "Soft",
+      "lather": "Creamy",
+      "conservation": "2 ans"
+    },
+    {
+      "label": "Beurre d'avocat",
+      "name": "Avocado butter",
+      "sap": 0.133,
+      "max": 0.15,
+      "melt": 32,
+      "hardness": "Soft",
+      "lather": "Medium",
+      "conservation": "1-2 ans"
+    },
+    {
+      "label": "Huile d'avocat",
+      "name": "Avocado oil",
+      "sap": 0.133,
+      "max": 0.25,
+      "hardness": "Soft",
+      "lather": "Medium",
+      "conservation": "1-2 ans"
+    },
+    {
+      "label": "Huile de babassu",
+      "name": "Babassu oil",
+      "sap": 0.178,
+      "max": 0.25,
+      "melt": 24,
+      "hardness": "Brittle",
+      "lather": "Rich, fluffy",
+      "conservation": "2 ans"
+    },
+    {
+      "label": "Huile de baobab",
+      "name": "Baobab oil",
+      "sap": 0.143,
+      "max": 0.1,
+      "hardness": "Soft",
+      "lather": "Medium",
+      "conservation": "2 ans"
+    },
+    {
+      "label": "Suif de bœuf",
+      "name": "Beef tallow",
+      "sap": 0.14,
+      "max": 0.4,
+      "melt": 35,
+      "hardness": "Hard",
+      "lather": "Rich, creamy",
+      "conservation": "1 an"
+    },
+    {
+      "label": "Cire d'abeille",
+      "name": "Beeswax",
+      "sap": 0.069,
+      "max": 0.5,
+      "melt": 62,
+      "hardness": "Hard",
+      "lather": "Inhibits",
+      "conservation": "Indefinite"
+    },
+    {
+      "label": "Huile de canola",
+      "name": "Canola oil",
+      "sap": 0.132,
+      "max": 0.33,
+      "hardness": "Soft",
+      "lather": "Poor",
+      "conservation": "1-2 ans"
+    },
+    {
+      "label": "Huile de ricin",
+      "name": "Castor oil",
+      "sap": 0.128,
+      "max": 0.8,
+      "hardness": "Soft, sticky",
+      "lather": "Boosts lather",
+      "conservation": "5 ans"
+    },
+    {
+      "label": "Beurre de cacao",
+      "name": "Cocoa butter",
+      "sap": 0.137,
+      "max": 0.15,
+      "melt": 35,
+      "hardness": "Brittle",
+      "lather": "Rich, creamy",
+      "conservation": "2-3 ans"
+    },
+    {
+      "label": "Huile de coco",
+      "name": "Coconut oil",
+      "sap": 0.178,
+      "max": 0.33,
+      "melt": 24,
+      "hardness": "Hard",
+      "lather": "Rich, fluffy",
+      "conservation": "3 ans"
+    },
+    {
+      "label": "Huile de coco (fractionnée)",
+      "name": "Coconut oil (fractionated)",
+      "sap": 0.232,
+      "max": 0.2,
+      "hardness": "Soft",
+      "lather": "Rich, fluffy",
+      "conservation": "Indefinite"
+    },
+    {
+      "label": "Huile d'onagre",
+      "name": "Evening primrose oil",
+      "sap": 0.133,
+      "max": 0.5,
+      "hardness": "Soft",
+      "lather": "Poor",
+      "conservation": "1 an"
+    },
+    {
+      "label": "Huile de lin",
+      "name": "Flax seed oil",
+      "sap": 0.136,
+      "max": 0.5,
+      "hardness": "Soft",
+      "lather": "Poor",
+      "conservation": "1 an"
+    },
+    {
+      "label": "Huile de pépins de raisin",
+      "name": "Grapeseed oil",
+      "sap": 0.134,
+      "max": 0.1,
+      "hardness": "Soft",
+      "lather": "Medium",
+      "conservation": "6 months"
+    },
+    {
+      "label": "Huile de noisette",
+      "name": "Hazelnut oil",
+      "sap": 0.136,
+      "max": 0.25,
+      "hardness": "Soft",
+      "lather": "Medium",
+      "conservation": "6 months"
+    },
+    {
+      "label": "Huile de chanvre",
+      "name": "Hempseed oil",
+      "sap": 0.135,
+      "max": 0.2,
+      "hardness": "Soft",
+      "lather": "Medium",
+      "conservation": "6 months"
+    },
+    {
+      "label": "Huile de jojoba",
+      "name": "Jojoba oil",
+      "sap": 0.069,
+      "max": 0.5,
+      "hardness": "Soft",
+      "lather": "Inhibits",
+      "conservation": "Indefinite"
+    },
+    {
+      "label": "Huile de noix de kukui",
+      "name": "Kukui nut oil",
+      "sap": 0.137,
+      "max": 0.15,
+      "hardness": "Soft",
+      "lather": "Stable, creamy",
+      "conservation": "1 an"
+    },
+    {
+      "label": "Lanoline",
+      "name": "Lanolin",
+      "sap": 0.074,
+      "max": 0.5,
+      "melt": 38,
+      "hardness": "Hard",
+      "lather": "Inhibits",
+      "conservation": "1-2 ans"
+    },
+    {
+      "label": "Lard",
+      "name": "Lard",
+      "sap": 0.138,
+      "max": 0.4,
+      "melt": 33,
+      "hardness": "Hard",
+      "lather": "Stable, creamy",
+      "conservation": "1 an"
+    },
+    {
+      "label": "Huile de macadamia",
+      "name": "Macadamia oil",
+      "sap": 0.139,
+      "max": 0.25,
+      "hardness": "Soft",
+      "lather": "Poor",
+      "conservation": "2 ans"
+    },
+    {
+      "label": "Beurre de mangue",
+      "name": "Mango butter",
+      "sap": 0.135,
+      "max": 0.5,
+      "melt": 35,
+      "hardness": "Hard",
+      "lather": "Rich, creamy",
+      "conservation": "1-2 ans"
+    },
+    {
+      "label": "Huile d'amande douce",
+      "name": "Meadowfoam oil",
+      "sap": 0.12,
+      "max": 0.2,
+      "hardness": "Soft",
+      "lather": "Medium, creamy",
+      "conservation": "2 ans"
+    },
+    {
+      "label": "Huile de neem",
+      "name": "Neem oil",
+      "sap": 0.138,
+      "max": 0.5,
+      "hardness": "Soft",
+      "lather": "Stable",
+      "conservation": "2 ans"
+    },
+    {
+      "label": "Huile d'olive",
+      "name": "Olive oil",
+      "sap": 0.134,
+      "max": 1,
+      "hardness": "hard",
+      "lather": "Thin, poor",
+      "conservation": "2 ans"
+    },
+    {
+      "label": "Huile de palmiste",
+      "name": "Palm kernel oil",
+      "sap": 0.178,
+      "max": 0.15,
+      "melt": 24,
+      "hardness": "Brittle",
+      "lather": "Rich, fluffy",
+      "conservation": "2 ans"
+    },
+    {
+      "label": "Huile de palme",
+      "name": "Palm oil",
+      "sap": 0.142,
+      "max": 0.25,
+      "melt": 35,
+      "hardness": "Hard",
+      "lather": "Rich, creamy",
+      "conservation": "2 ans"
+    },
+    {
+      "label": "Huile d'arachide",
+      "name": "Peanut oil",
+      "sap": 0.136,
+      "max": 0.1,
+      "hardness": "Soft",
+      "lather": "Poor",
+      "conservation": "1 an"
+    },
+    {
+      "label": "Huile de son de riz",
+      "name": "Rice bran oil",
+      "sap": 0.128,
+      "max": 0.5,
+      "hardness": "Soft",
+      "lather": "Stable, mild",
+      "conservation": "1-2 ans"
+    },
+    {
+      "label": "Huile de carthame",
+      "name": "Safflower oil",
+      "sap": 0.135,
+      "max": 0.25,
+      "hardness": "Soft",
+      "lather": "Medium",
+      "conservation": "1 an"
+    },
+    {
+      "label": "Huile de sésame",
+      "name": "Sesame oil",
+      "sap": 0.133,
+      "max": 0.1,
+      "hardness": "Soft",
+      "lather": "Poor",
+      "conservation": "1 an"
+    },
+    {
+      "label": "Beurre de karité",
+      "name": "Shea butter",
+      "sap": 0.128,
+      "max": 0.1,
+      "melt": 40,
+      "hardness": "Hard",
+      "lather": "Creamy, silky",
+      "conservation": "1-2 ans"
+    },
+    {
+      "label": "Huile de soja",
+      "name": "Soybean oil",
+      "sap": 0.135,
+      "max": 0.5,
+      "hardness": "Soft",
+      "lather": "Medium",
+      "conservation": "1 an"
+    },
+    {
+      "label": "Huile de tournesol",
+      "name": "Sunflower oil",
+      "sap": 0.134,
+      "max": 0.25,
+      "hardness": "Soft",
+      "lather": "Medium",
+      "conservation": "1 an"
+    },
+    {
+      "label": "Huile d'amande douce",
+      "name": "Sweet almond oil",
+      "sap": 0.136,
+      "max": 0.25,
+      "hardness": "Soft",
+      "lather": "Medium",
+      "conservation": "1 an"
+    },
+    {
+      "label": "Huile de suif",
+      "name": "Tallow",
+      "sap": 0.139,
+      "max": 0.4,
+      "hardness": "Hard",
+      "lather": "Stable, creamy",
+      "conservation": "1 an"
+    },
+    {
+      "label": "Huile de noix",
+      "name": "Walnut oil",
+      "sap": 0.135,
+      "max": 0.15,
+      "hardness": "Soft",
+      "lather": "Poor",
+      "conservation": "6 months"
+    },
+    {
+      "label": "Huile de germe de blé",
+      "name": "Wheatgerm oil",
+      "sap": 0.132,
+      "max": 0.5,
+      "hardness": "Soft",
+      "lather": "Poor",
+      "conservation": "1 an"
+    },
+    {
+      "label": "Huile de colza",
+      "name": "Rapeseed oil",
+      "sap": 0.124,
+      "max": 0.2,
+      "hardness": "-",
+      "lather": "-",
+      "conservation": "-"
+    },
+    {
+      "label": "Huile de bourrache",
+      "name": "Borage oil",
+      "sap": 0.136,
+      "max": 0.1,
+      "hardness": "-",
+      "lather": "-",
+      "conservation": "-"
+    }
+  ]
